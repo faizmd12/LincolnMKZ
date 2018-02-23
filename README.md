@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Lincoln MKZ is a very beautiful car
+![Lincoln MKZ image](https://www.lincoln.com/content/dam/vdm_ford/live/en_us/lincoln/nameplate/mkz/2018/collections/equipment/3_2/18_mkz_acc_32.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)
 
 You can use the [editor on GitHub](https://github.com/faizmd12/LincolnMKZ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Script
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
